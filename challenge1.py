@@ -23,6 +23,9 @@ Function solution can be found.
 Applied on URL:
 
 map -> ocr
+
+So we change http://www.pythonchallenge.com/pc/def/map.html
+to http://www.pythonchallenge.com/pc/def/ocr.html
 """
 
 text = "g fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr'q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj."
